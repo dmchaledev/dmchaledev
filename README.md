@@ -78,7 +78,6 @@ When I am not building security products, I run [Lost Rabbit Digital](https://lo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dmchaledev&show_icons=true&count_private=true&hide_border=true&theme=dark&include_all_commits=true" alt="GitHub Stats" height="165">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmchaledev&hide_border=true&theme=dark" alt="GitHub Streak" height="165">
 
 <br>
