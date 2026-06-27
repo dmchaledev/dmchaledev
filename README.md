@@ -11,7 +11,7 @@
   <a href="https://lostrabbit.digital"><img src="https://img.shields.io/badge/Lost%20Rabbit%20Digital-8B5CF6?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Lost Rabbit Digital"></a>
   <a href="https://store.steampowered.com/search/?developer=Lost%20Rabbit%20Digital"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
   <a href="https://x.com/DavidMcHal91320"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/davidhailbytes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 </div>
